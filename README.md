@@ -4,4 +4,4 @@ All the modules and packages are included in Scikit-learn (Python machine learni
 
 # Datasets
 
-All the datasets used in scripts are in 'Datasets' folder.
+All the data files used in scripts are in 'Datasets' folder.
