@@ -1,4 +1,4 @@
-# Python Data Analysis
+# Python for Data Analysis
 
 All the modules and packages are included in Scikit-learn (Python machine learning module). 
 
